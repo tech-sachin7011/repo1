@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C4C1-933A
+
+ Directory of C:\Users\ADMIN\Desktop\MyProjectFotGit
+
+25/11/2021  02:40 PM    <DIR>          .
+25/11/2021  02:40 PM    <DIR>          ..
+25/11/2021  02:40 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62,539,358,208 bytes free
